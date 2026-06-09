@@ -1,8 +1,9 @@
 p{
     font-size: 80px;
     color: red;
-    width: 1;
+    font-weight: bold;
 }
 h1{
     font-size: 100px;
+    color: blue;
 }
